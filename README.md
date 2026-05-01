@@ -1,6 +1,6 @@
 # Analysis Code for: "Persistent Gaps, Partial Gains: A Population-Level Study of COVID-19 Learning Inequalities in the Netherlands"
 
-[![DOI](https://zenodo.org/badge/DOI/[ZENODO-DOI].svg)](https://doi.org/[ZENODO-DOI])
+[![DOI](https://zenodo.org/badge/1226287462.svg)](https://doi.org/10.5281/zenodo.19943335)
 
 This repository contains the Python analysis code associated with the following publication:
 
