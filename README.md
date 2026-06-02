@@ -4,7 +4,7 @@
 
 This repository contains the Python analysis code associated with the following publication:
 
-> Alrouh, H., et al. (2026). Persistent Gaps, Partial Gains: A Population-Level Study of COVID-19 Learning Inequalities in the Netherlands. *[JOURNAL NAME]*, [VOLUME]([ISSUE]), [PAGE RANGE]. https://doi.org/[MANUSCRIPT DOI]
+> Alrouh, H., et al. (2026). Persistent Gaps, Partial Gains: A Population-Level Study of COVID-19 Learning Inequalities in the Netherlands.(In submission)
 
 ---
 
